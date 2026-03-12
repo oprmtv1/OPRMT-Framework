@@ -1,2 +1,2 @@
 # OPRMT-Framework
-Documentation,Versioning,ComplianceHub For OPRMT™
+Documentation,Versioning,Compliance Hub For OPRMT™
